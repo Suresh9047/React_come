@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_come/static/css/main.3eb8e3c5.css",
-    "main.js": "/React_come/static/js/main.6f3b31de.js",
+    "main.js": "/React_come/static/js/main.42b6d89a.js",
     "static/media/banner_kids.png": "/React_come/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/React_come/static/media/banner_women.5a27fc4e4533e57e4676.png",
     "static/media/banner_mens.png": "/React_come/static/media/banner_mens.eed7197157196f319b17.png",
@@ -46,10 +46,10 @@
     "static/media/hand_icon.png": "/React_come/static/media/hand_icon.9c7487cecb600f30901b.png",
     "index.html": "/React_come/index.html",
     "main.3eb8e3c5.css.map": "/React_come/static/css/main.3eb8e3c5.css.map",
-    "main.6f3b31de.js.map": "/React_come/static/js/main.6f3b31de.js.map"
+    "main.42b6d89a.js.map": "/React_come/static/js/main.42b6d89a.js.map"
   },
   "entrypoints": [
     "static/css/main.3eb8e3c5.css",
-    "static/js/main.6f3b31de.js"
+    "static/js/main.42b6d89a.js"
   ]
 }
